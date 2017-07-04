@@ -1,4 +1,3 @@
-# Background
 ## Purpose
 Under the current Health Management Information System (HMIS), health facilities record health service data using paper-based tools, aggregate this recorded data on HMIS paper forms, and hand deliver it to the District Health Office (DHO)/District Public Health Office (DPHO), where it is digitized and put into the web-based HMIS. This paper-based reporting practice is time consuming and introduces more opportunities for human error, whether while recording on paper, reading hand- written data, aggregating, or entering data in web-based HMIS, directly affecting data quality, and compromising the ability of policy-makers to draft effective policies based on this data.
 
