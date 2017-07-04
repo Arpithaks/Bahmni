@@ -10,4 +10,4 @@ NepalEHR brings together multiple well-known open source platforms under one wel
 ## Relevant links
 * [Prerequisites](Prerequisites) 
 * [Installation (Bahmni 0.89)](Installation-(Bahmni-0.89))
-* [Implementation configuration](Implementation Configuration)
+* [Implementation configuration](Implementation-Configuration)
