@@ -8,6 +8,6 @@ NepalEHR brings together multiple well-known open source platforms under one wel
 * [DCM4Che](/http://www.dcm4che.org/): Open source clinical image and object management
 
 ## Relevant links
-[Prerequisites](Prerequisites) 
-[Installation (Bahmni 0.89)](Installation (Bahmni 0.89))
-[Implementation configuration](Implementation Configuration)
+* [Prerequisites](Prerequisites) 
+* [Installation (Bahmni 0.89)](Installation (Bahmni 0.89))
+* [Implementation configuration](Implementation Configuration)
